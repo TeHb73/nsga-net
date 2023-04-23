@@ -1,6 +1,6 @@
 import sys
 # update your projecty root path before running
-sys.path.insert(0, '/path/to/nsga-net')
+sys.path.insert(0, 'nsga-net')
 
 import os
 import time
