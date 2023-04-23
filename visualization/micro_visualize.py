@@ -1,6 +1,6 @@
 import sys
-# sys.path.insert(0, '/path/to/nsga-net')
-sys.path.insert(0, '/Users/zhichao.lu/Dropbox/2019/github/nsga-net')
+sys.path.insert(0, 'nsga-net')
+# sys.path.insert(0, '/Users/zhichao.lu/Dropbox/2019/github/nsga-net')
 
 import os
 from models import micro_genotypes as genotypes
